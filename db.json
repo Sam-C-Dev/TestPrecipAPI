@@ -1,1 +1,33 @@
-{"queryCost":4,"latitude":41.886456,"longitude":-87.62325,"resolvedAddress":"60601, USA","address":"60601","timezone":"America/Chicago","tzoffset":-5.0,"days":[{"datetime":"2024-04-04","precip":0.059},{"datetime":"2024-04-05","precip":0.0},{"datetime":"2024-04-06","precip":0.0},{"datetime":"2024-04-07","precip":0.403}]}
+	
+queryCost	8
+latitude	41.886456
+longitude	-87.62325
+resolvedAddress	"60601, USA"
+address	"60601"
+timezone	"America/Chicago"
+tzoffset	-5
+days	
+0	
+datetime	"2024-03-31"
+precip	0.179
+1	
+datetime	"2024-04-01"
+precip	0.553
+2	
+datetime	"2024-04-02"
+precip	0.259
+3	
+datetime	"2024-04-03"
+precip	0.248
+4	
+datetime	"2024-04-04"
+precip	0.059
+5	
+datetime	"2024-04-05"
+precip	0
+6	
+datetime	"2024-04-06"
+precip	0
+7	
+datetime	"2024-04-07"
+precip	0.403
